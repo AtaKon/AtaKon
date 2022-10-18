@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm **At**h**a**nsios **Kon**toudis</h1>
+<h1 align="center">Hi 👋, I'm Athansios Kontoudis</h1>
 <h3 align="center">A Software engineer and full stack developer from Greece</h3>
 
 - 🔭 I’m currently working on **varius web apps mainly for educational purposes.**
